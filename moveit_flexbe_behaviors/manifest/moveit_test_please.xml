@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="moveit_test_please">
+
+	<executable package_path="moveit_flexbe_behaviors.moveit_test_please_sm" class="moveit_test_pleaseSM" />
+	<tagstring>moveit,joint,pose</tagstring>
+	<author>injae</author>
+	<date>Fri Dec 18 2020</date>
+	<description>
+		moveit
+	</description>
+
+
+	<!-- Contained Behaviors -->
+
+	<!-- Available Parameters -->
+
+</behavior>

@@ -1,0 +1,4 @@
+*~
+*.pyc
+*_tmp.py
+.vscode
